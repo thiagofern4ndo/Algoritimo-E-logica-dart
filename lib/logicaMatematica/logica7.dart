@@ -2,7 +2,7 @@ import 'dart:io';
 
 void main () {
   /*Algoritmo que calcula media de notas levando em consideração peso de cada 
-  nota para calcular a media final, no exemplo medias tem valor 2,3 e 5, respectivamente 
+  nota para calcular a media final, no exemplo medias tem valor ponderado de 2,3 e 5, respectivamente 
   e mostre se ele foi aprovado ou reprovado considerando nota 7 com minimo para aprovação*/
 
    print('Digite a 1º nota do aluno ');
