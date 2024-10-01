@@ -1,8 +1,9 @@
 
 <h1>Fundamentos do desenvolvimento de software em Dart</h1>
 
-<h3>Repositório com exercícios de lógica, algoritimo e estrutura de dados utilizando a linguagem Dart!<br>
-    Todos os exercícios permitem a interação com o terminal de comando para que os dados sejam mutáveis.</h3><br>
+<h4>O repositório conta com diversos exercícios de ultilizando os principais conceitos de lógica, algoritimo e estrutura de dados utilizando a linguagem Dart!<br>
+    Muitos os exercícios permitem a interação com o terminal de comando para que os dados sejam mutáveis.</h4><br>
+     
 
 <h2>Instruções de uso:</h2>
 <ul>
