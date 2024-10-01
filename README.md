@@ -1,7 +1,7 @@
 
-<h1>Lógica de Programação em Dart</h1>
+<h1>Fundamentos do desenvolvimento de software em Dart</h1>
 
-<h3>Repositório com exercícios de lógica de programação utilizando a linguagem Dart!<br>
+<h3>Repositório com exercícios de lógica, algoritimo e estrutura de dados utilizando a linguagem Dart!<br>
     Todos os exercícios permitem a interação com o terminal de comando para que os dados sejam mutáveis.</h3><br>
 
 <h2>Instruções de uso:</h2>
