@@ -5,11 +5,11 @@ void main() {
 
   var valorInicial = produtos[0]; 
   
-  produtos.forEach((element) {
+  for (var element in produtos) {
     if (element < valorInicial) {
       valorInicial = element; 
     }
-  });
+  }
 
   print('O menor valor da lista é: $valorInicial');
 }
