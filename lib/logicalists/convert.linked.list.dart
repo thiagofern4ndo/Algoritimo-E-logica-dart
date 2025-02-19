@@ -29,7 +29,7 @@ class LinkedList {
   }
 
   void reverse() {
-    Node? prev = null;
+    Node? prev;
     Node? current = head;
     Node? next;
 
